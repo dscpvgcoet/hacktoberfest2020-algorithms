@@ -27,5 +27,6 @@ You can add a new folder for your favourite programming (if not already present)
   ```
   git push origin {branch_name}
   ```
-9. Go to http://github.com/{your_username}/Algorithms where you will be able see a button named "Pull request". Click on it.
-10. Add appropriate message and click the "Create Pull Request" button.
+9. Go to http://github.com/{your_username}/Algorithms , on the left there is a button to change your branch. Click on it and select {branch_name}.
+10. Now you will be able see a button named "Pull request". Click on it.
+11. Add appropriate message and click the "Create Pull Request" button.

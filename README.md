@@ -30,3 +30,7 @@ You can add a new folder for your favourite programming (if not already present)
 9. Go to http://github.com/{your_username}/Algorithms , on the left there is a button to change your branch. Click on it and select {branch_name}.
 10. Now you will be able see a button named "Pull request". Click on it.
 11. Add appropriate message and click the "Create Pull Request" button.
+
+#### Resolving errors
+1. If you get a message like "This branch is X commits ahead, Y commits behind" then visit [this](https://stackoverflow.com/questions/41283955/github-keeps-saying-this-branch-is-x-commits-ahead-y-commits-behind/41289258) thread and follow the steps. Also don't forget to push and pull from proper branches (observe that we have a main branch instead of master).
+2. In case of merge conflict visit [this](https://stackoverflow.com/questions/161813/how-to-resolve-merge-conflicts-in-git) thread.

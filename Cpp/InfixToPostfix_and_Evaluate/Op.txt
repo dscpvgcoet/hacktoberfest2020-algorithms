@@ -1,0 +1,5 @@
+//output example
+Enter a string whose value needs to be evaluated through:((3-1)*(4+2))/3
+size is15
+31-42+*3/
+Value on evaluation : 4

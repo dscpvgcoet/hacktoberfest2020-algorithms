@@ -1,7 +1,3 @@
-/* Rasika Deshpande
-   SE IT
-   19012088 (branch change)
-*/
 #include <iostream>
 using namespace std;
 class Node {

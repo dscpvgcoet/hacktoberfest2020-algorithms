@@ -4,6 +4,7 @@
 You can add a new folder for your favourite programming (if not already present) language and start adding algorithms to the folder.
 
 ### Steps to contribute
+0. Star this repository. 
 1. Click on the fork button on the top right corner of this page.
 2. Now go to http://github.com/{your_username}/Algorithms  where you can see your own fork of this repo.
 3. Open the terminal and clone your fork using 

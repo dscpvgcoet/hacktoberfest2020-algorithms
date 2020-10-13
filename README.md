@@ -11,7 +11,7 @@ You can add a new folder for your favourite programming (if not already present)
   ```
   git clone http://github.com/{your_username}/hacktoberfest2020-algorithms
   ```
-4. Now go inside the directory "Algorithms" and checkout to a new branch with name of your choice
+4. Now go inside the directory "hacktoberfest2020-algorithms" and checkout to a new branch with name of your choice
   ```
   git checkout -b {branch_name}
   ```

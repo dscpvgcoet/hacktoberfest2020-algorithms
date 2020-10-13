@@ -6,10 +6,10 @@ You can add a new folder for your favourite programming (if not already present)
 ### Steps to contribute
 0. Star this repository.
 1. Click on the fork button on the top right corner of this page.
-2. Now go to http://github.com/{your_username}/Algorithms  where you can see your own fork of this repo.
+2. Now go to http://github.com/{your_username}/hacktoberfest2020-algorithms where you can see your own fork of this repo.
 3. Open the terminal and clone your fork using
   ```
-  git clone http://github.com/{your_username}/Algorithms
+  git clone http://github.com/{your_username}/hacktoberfest2020-algorithms
   ```
 4. Now go inside the directory "Algorithms" and checkout to a new branch with name of your choice
   ```
@@ -28,7 +28,7 @@ You can add a new folder for your favourite programming (if not already present)
   ```
   git push origin {branch_name}
   ```
-9. Go to http://github.com/{your_username}/Algorithms , on the left there is a button to change your branch. Click on it and select {branch_name}.
+9. Go to http://github.com/{your_username}/hacktoberfest2020-algorithms , on the left there is a button to change your branch. Click on it and select {branch_name}.
 10. Now you will be able see a button named "Pull request". Click on it.
 11. Add appropriate message and click the "Create Pull Request" button.
 

@@ -1,7 +1,3 @@
-Roll number:-8084
-
-
-
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
